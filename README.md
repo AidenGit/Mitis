@@ -1,2 +1,5 @@
 # Mitis
-Discord.py Bot [rewrite]
+Discord.py Bot using rewrite
+
+
+#This is my submission for the IFB102 Mini Project
