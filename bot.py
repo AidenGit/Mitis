@@ -24,7 +24,7 @@ async def on_ready():
 @bot.command()
 async def stats(ctx):
     """
-    Displays bot stats. Server count, 
+    Displays bot stats. Server count here,
     Members using it, and its dependable libraries 
     """
     pythonVersion = platform.python_version()
