@@ -1,14 +1,5 @@
 # Mitis
-Discord.py Bot [rewrite]
+## Discord.py Bot 
+- using rewrite (https://discordpy.readthedocs.io/en/latest/)
 
-##Features
-// Basic Bot Commands here
-
-
-* Screenshot webpages easily
-
-##Setup 
-See wiki  
-
-##Usage
-Prefix = !
+**Basic Functionality to show use of the Discord token process
